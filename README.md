@@ -13,6 +13,7 @@ Guardar a minha evolução e aplicar na prática os conceitos de Orientação a 
 - ✅ Métodos Construtores (`__init__`)
 - ✅ Atributos e Métodos de Instância
 - ✅ Métodos Dunder/Mágicos (`__str__`, etc)
+- ✅ Biblioteca Rich
 - ⏳ Encapsulamento, Herança e Polimorfismo *(em breve!)*
 
 ---
