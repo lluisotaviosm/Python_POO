@@ -23,6 +23,8 @@ Aqui ficam os códigos separados por categoria:
 ### 📁 Exercícios
 - `exercicios/ex001/`: Primeiro exercício prático de criação de classes.
 - `exercicios/ex002/`: Exercício explorando métodos de instância e Dunder Methods com a classe Gafanhoto.
+- `exercicios/ex003/`: Exercício prático criando um "mini sistema de conta bancaria".
+
 
 ### 📁 Desafios
 - *(Em breve)*
