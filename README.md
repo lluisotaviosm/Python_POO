@@ -12,6 +12,17 @@ Guardar a minha evolução e aplicar na prática os conceitos de Orientação a 
 - ✅ Criação de Classes e Objetos
 - ✅ Métodos Construtores (`__init__`)
 - ✅ Atributos e Métodos de Instância
+- ✅ Métodos Dunder/Mágicos (`__str__`, etc)
 - ⏳ Encapsulamento, Herança e Polimorfismo *(em breve!)*
 
 ---
+
+## 📂 Estrutura
+Aqui ficam os códigos separados por categoria:
+
+### 📁 Exercícios
+- `exercicios/ex001/`: Primeiro exercício prático de criação de classes.
+- `exercicios/ex002/`: Exercício explorando métodos de instância e Dunder Methods com a classe Gafanhoto.
+
+### 📁 Desafios
+- *(Em breve)*
