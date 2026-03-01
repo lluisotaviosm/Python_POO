@@ -27,5 +27,9 @@ Aqui ficam os códigos separados por categoria:
 - `exercicios/ex003/`: Exercício prático criando um "mini sistema de conta bancaria".
 
 
+
 ### 📁 Desafios
-- *(Em breve)*
+- `desafio/ex001/`: Exercício prático criando um "Pede pro usuario digitar o cargo e o setor do funcionario".
+- `desafio/ex002/`: Exercício prático criando um "Cria uma etiqueta para um certo produto com seu preço".
+- `desafio/ex003/`: Exercício prático criando um "Calculador de Churrasco".
+- `desafio/ex004/`: Exercício prático criando um "Simulador de paginas de um Livro".
