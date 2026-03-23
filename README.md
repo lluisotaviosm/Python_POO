@@ -29,7 +29,11 @@ Aqui ficam os códigos separados por categoria:
 
 
 ### 📁 Desafios
-- `desafio/ex001/`: Exercício prático criando um "Pede pro usuario digitar o cargo e o setor do funcionario".
-- `desafio/ex002/`: Exercício prático criando um "Cria uma etiqueta para um certo produto com seu preço".
-- `desafio/ex003/`: Exercício prático criando um "Calculador de Churrasco".
-- `desafio/ex004/`: Exercício prático criando um "Simulador de paginas de um Livro".
+- `desafio001/`: Exercício prático criando um "Pede pro usuario digitar o cargo e o setor do funcionario".
+- `desafio002/`: Exercício prático criando um "Cria uma etiqueta para um certo produto com seu preço".
+- `desafio003/`: Exercício prático criando um "Calculador de Churrasco".
+- `desafio004/`: Exercício prático criando um "Simulador de paginas de um Livro".
+- `desafio005/`: Exercício prático criando um "Menu de jogos favoritos do usuario".
+- `desafio005/`: Exercício prático criando um "Simulador de canetas, azul, vermelha e verde".
+
+
