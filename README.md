@@ -34,6 +34,6 @@ Aqui ficam os códigos separados por categoria:
 - `desafio003/`: Exercício prático criando um "Calculador de Churrasco".
 - `desafio004/`: Exercício prático criando um "Simulador de paginas de um Livro".
 - `desafio005/`: Exercício prático criando um "Menu de jogos favoritos do usuario".
-- `desafio005/`: Exercício prático criando um "Simulador de canetas, azul, vermelha e verde".
+- `desafio006/`: Exercício prático criando um "Simulador de canetas, azul, vermelha e verde".
 
 
